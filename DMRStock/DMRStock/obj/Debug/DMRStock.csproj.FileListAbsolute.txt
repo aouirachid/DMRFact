@@ -1,0 +1,136 @@
+C:\Users\HP\Desktop\DMRFact\DMRStock\DMRStock\bin\Debug\DMRStock.exe.config
+C:\Users\HP\Desktop\DMRFact\DMRStock\DMRStock\bin\Debug\DMRStock.exe
+C:\Users\HP\Desktop\DMRFact\DMRStock\DMRStock\bin\Debug\DMRStock.pdb
+C:\Users\HP\Desktop\DMRFact\DMRStock\DMRStock\obj\Debug\DMRStock.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\DMRFact\DMRStock\DMRStock\obj\Debug\DMRStock.mainproject.resources
+C:\Users\HP\Desktop\DMRFact\DMRStock\DMRStock\obj\Debug\DMRStock.Properties.Resources.resources
+C:\Users\HP\Desktop\DMRFact\DMRStock\DMRStock\obj\Debug\DMRStock.csproj.GenerateResource.cache
+C:\Users\HP\Desktop\DMRFact\DMRStock\DMRStock\obj\Debug\DMRStock.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\DMRFact\DMRStock\DMRStock\obj\Debug\DMRStock.exe
+C:\Users\HP\Desktop\DMRFact\DMRStock\DMRStock\obj\Debug\DMRStock.pdb
+C:\Users\HP\Desktop\DMRFact\DMRStock\DMRStock\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+C:\Users\HP\Desktop\DMRFact\DMRStock\DMRStock\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+C:\Users\HP\Desktop\DMRFact\DMRStock\DMRStock\obj\Debug\DMRStock.createProduct.resources
+C:\Users\HP\Desktop\DMRFact\DMRStock\DMRStock\obj\Debug\DMRStock.productListe.resources
+C:\Users\HP\Desktop\DMRFact\DMRStock\DMRStock\obj\Debug\DMRStock.csproj.CopyComplete
+C:\Users\HP\Desktop\DMRFact\DMRStock\DMRStock\obj\Debug\DMRStock.newClient.resources
+C:\Users\HP\Desktop\DMRFact\DMRStock\DMRStock\obj\Debug\DMRStock.listeClient.resources
+C:\Users\HP\Desktop\DMRFact\DMRStock\DMRStock\obj\Debug\DMRStock.Entree.ne.resources
+C:\Users\HP\Desktop\DMRFact\DMRStock\DMRStock\obj\Debug\DMRStock.sortiee.ns.resources
+C:\Users\HP\Desktop\DMRFact\DMRStock\DMRStock\obj\Debug\DMRStock.Entree.listeEntree.resources
+C:\Users\HP\Desktop\DMRFact\DMRStock\DMRStock\obj\Debug\DMRStock.sortiee.listeSortie.resources
+C:\Users\HP\Desktop\DMRFact\DMRStock\DMRStock\obj\Debug\DMRStock.user.newUser.resources
+C:\Users\HP\Desktop\DMRFact\DMRStock\DMRStock\obj\Debug\DMRStock.user.loginPage.resources
+C:\Users\HP\Desktop\DMRFact\DMRStock\DMRStock\obj\Debug\DMRStock.facture.listeFacture.resources
+C:\Users\HP\Desktop\DMRFact\DMRStock\DMRStock\obj\Debug\DMRStock.facture.newFacture.resources
+C:\Users\HP\Desktop\DMRFact\DMRStock\DMRStock\obj\Debug\DMRStock.facture.reglementFacture.resources
+C:\Users\berda\Desktop\RACHID APPCATION 2024\DMRFact\DMRStock\DMRStock\bin\Debug\DMRStock.exe.config
+C:\Users\berda\Desktop\RACHID APPCATION 2024\DMRFact\DMRStock\DMRStock\bin\Debug\DMRStock.exe
+C:\Users\berda\Desktop\RACHID APPCATION 2024\DMRFact\DMRStock\DMRStock\bin\Debug\DMRStock.pdb
+C:\Users\berda\Desktop\RACHID APPCATION 2024\DMRFact\DMRStock\DMRStock\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+C:\Users\berda\Desktop\RACHID APPCATION 2024\DMRFact\DMRStock\DMRStock\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+C:\Users\berda\Desktop\RACHID APPCATION 2024\DMRFact\DMRStock\DMRStock\obj\Debug\DMRStock.csproj.AssemblyReference.cache
+C:\Users\berda\Desktop\RACHID APPCATION 2024\DMRFact\DMRStock\DMRStock\obj\Debug\DMRStock.newClient.resources
+C:\Users\berda\Desktop\RACHID APPCATION 2024\DMRFact\DMRStock\DMRStock\obj\Debug\DMRStock.listeClient.resources
+C:\Users\berda\Desktop\RACHID APPCATION 2024\DMRFact\DMRStock\DMRStock\obj\Debug\DMRStock.Entree.listeEntree.resources
+C:\Users\berda\Desktop\RACHID APPCATION 2024\DMRFact\DMRStock\DMRStock\obj\Debug\DMRStock.Entree.ne.resources
+C:\Users\berda\Desktop\RACHID APPCATION 2024\DMRFact\DMRStock\DMRStock\obj\Debug\DMRStock.facture.listeFacture.resources
+C:\Users\berda\Desktop\RACHID APPCATION 2024\DMRFact\DMRStock\DMRStock\obj\Debug\DMRStock.facture.newFacture.resources
+C:\Users\berda\Desktop\RACHID APPCATION 2024\DMRFact\DMRStock\DMRStock\obj\Debug\DMRStock.facture.reglementFacture.resources
+C:\Users\berda\Desktop\RACHID APPCATION 2024\DMRFact\DMRStock\DMRStock\obj\Debug\DMRStock.createProduct.resources
+C:\Users\berda\Desktop\RACHID APPCATION 2024\DMRFact\DMRStock\DMRStock\obj\Debug\DMRStock.mainproject.resources
+C:\Users\berda\Desktop\RACHID APPCATION 2024\DMRFact\DMRStock\DMRStock\obj\Debug\DMRStock.productListe.resources
+C:\Users\berda\Desktop\RACHID APPCATION 2024\DMRFact\DMRStock\DMRStock\obj\Debug\DMRStock.Properties.Resources.resources
+C:\Users\berda\Desktop\RACHID APPCATION 2024\DMRFact\DMRStock\DMRStock\obj\Debug\DMRStock.sortiee.listeSortie.resources
+C:\Users\berda\Desktop\RACHID APPCATION 2024\DMRFact\DMRStock\DMRStock\obj\Debug\DMRStock.sortiee.ns.resources
+C:\Users\berda\Desktop\RACHID APPCATION 2024\DMRFact\DMRStock\DMRStock\obj\Debug\DMRStock.user.loginPage.resources
+C:\Users\berda\Desktop\RACHID APPCATION 2024\DMRFact\DMRStock\DMRStock\obj\Debug\DMRStock.user.newUser.resources
+C:\Users\berda\Desktop\RACHID APPCATION 2024\DMRFact\DMRStock\DMRStock\obj\Debug\DMRStock.csproj.GenerateResource.cache
+C:\Users\berda\Desktop\RACHID APPCATION 2024\DMRFact\DMRStock\DMRStock\obj\Debug\DMRStock.csproj.CoreCompileInputs.cache
+C:\Users\berda\Desktop\RACHID APPCATION 2024\DMRFact\DMRStock\DMRStock\obj\Debug\DMRStock.csproj.CopyComplete
+C:\Users\berda\Desktop\RACHID APPCATION 2024\DMRFact\DMRStock\DMRStock\obj\Debug\DMRStock.exe
+C:\Users\berda\Desktop\RACHID APPCATION 2024\DMRFact\DMRStock\DMRStock\obj\Debug\DMRStock.pdb
+C:\Users\berda\Desktop\DMRFact la bonne version\DMRStock\DMRStock\bin\Debug\DMRStock.exe.config
+C:\Users\berda\Desktop\DMRFact la bonne version\DMRStock\DMRStock\bin\Debug\DMRStock.exe
+C:\Users\berda\Desktop\DMRFact la bonne version\DMRStock\DMRStock\bin\Debug\DMRStock.pdb
+C:\Users\berda\Desktop\DMRFact la bonne version\DMRStock\DMRStock\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+C:\Users\berda\Desktop\DMRFact la bonne version\DMRStock\DMRStock\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+C:\Users\berda\Desktop\DMRFact la bonne version\DMRStock\DMRStock\obj\Debug\DMRStock.csproj.AssemblyReference.cache
+C:\Users\berda\Desktop\DMRFact la bonne version\DMRStock\DMRStock\obj\Debug\DMRStock.newClient.resources
+C:\Users\berda\Desktop\DMRFact la bonne version\DMRStock\DMRStock\obj\Debug\DMRStock.listeClient.resources
+C:\Users\berda\Desktop\DMRFact la bonne version\DMRStock\DMRStock\obj\Debug\DMRStock.Entree.listeEntree.resources
+C:\Users\berda\Desktop\DMRFact la bonne version\DMRStock\DMRStock\obj\Debug\DMRStock.Entree.ne.resources
+C:\Users\berda\Desktop\DMRFact la bonne version\DMRStock\DMRStock\obj\Debug\DMRStock.facture.listeFacture.resources
+C:\Users\berda\Desktop\DMRFact la bonne version\DMRStock\DMRStock\obj\Debug\DMRStock.facture.newFacture.resources
+C:\Users\berda\Desktop\DMRFact la bonne version\DMRStock\DMRStock\obj\Debug\DMRStock.facture.reglementFacture.resources
+C:\Users\berda\Desktop\DMRFact la bonne version\DMRStock\DMRStock\obj\Debug\DMRStock.createProduct.resources
+C:\Users\berda\Desktop\DMRFact la bonne version\DMRStock\DMRStock\obj\Debug\DMRStock.mainproject.resources
+C:\Users\berda\Desktop\DMRFact la bonne version\DMRStock\DMRStock\obj\Debug\DMRStock.productListe.resources
+C:\Users\berda\Desktop\DMRFact la bonne version\DMRStock\DMRStock\obj\Debug\DMRStock.Properties.Resources.resources
+C:\Users\berda\Desktop\DMRFact la bonne version\DMRStock\DMRStock\obj\Debug\DMRStock.sortiee.listeSortie.resources
+C:\Users\berda\Desktop\DMRFact la bonne version\DMRStock\DMRStock\obj\Debug\DMRStock.sortiee.ns.resources
+C:\Users\berda\Desktop\DMRFact la bonne version\DMRStock\DMRStock\obj\Debug\DMRStock.user.loginPage.resources
+C:\Users\berda\Desktop\DMRFact la bonne version\DMRStock\DMRStock\obj\Debug\DMRStock.user.newUser.resources
+C:\Users\berda\Desktop\DMRFact la bonne version\DMRStock\DMRStock\obj\Debug\DMRStock.csproj.GenerateResource.cache
+C:\Users\berda\Desktop\DMRFact la bonne version\DMRStock\DMRStock\obj\Debug\DMRStock.csproj.CoreCompileInputs.cache
+C:\Users\berda\Desktop\DMRFact la bonne version\DMRStock\DMRStock\obj\Debug\DMRStock.csproj.CopyComplete
+C:\Users\berda\Desktop\DMRFact la bonne version\DMRStock\DMRStock\obj\Debug\DMRStock.exe
+C:\Users\berda\Desktop\DMRFact la bonne version\DMRStock\DMRStock\obj\Debug\DMRStock.pdb
+C:\Users\berda\Desktop\DMRFact la bonne version\DMRStock\DMRStock\obj\Debug\DMRStock.n_menu.resources
+C:\Users\berda\Desktop\DMRFact la bonne version\DMRStock\DMRStock\obj\Debug\DMRStock.category.newCategory.resources
+I:\DMRFact la bonne version\DMRStock\DMRStock\bin\Debug\DMRStock.exe.config
+I:\DMRFact la bonne version\DMRStock\DMRStock\bin\Debug\DMRStock.exe
+I:\DMRFact la bonne version\DMRStock\DMRStock\bin\Debug\DMRStock.pdb
+I:\DMRFact la bonne version\DMRStock\DMRStock\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+I:\DMRFact la bonne version\DMRStock\DMRStock\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+I:\DMRFact la bonne version\DMRStock\DMRStock\obj\Debug\DMRStock.csproj.AssemblyReference.cache
+I:\DMRFact la bonne version\DMRStock\DMRStock\obj\Debug\DMRStock.category.newCategory.resources
+I:\DMRFact la bonne version\DMRStock\DMRStock\obj\Debug\DMRStock.newClient.resources
+I:\DMRFact la bonne version\DMRStock\DMRStock\obj\Debug\DMRStock.listeClient.resources
+I:\DMRFact la bonne version\DMRStock\DMRStock\obj\Debug\DMRStock.Entree.listeEntree.resources
+I:\DMRFact la bonne version\DMRStock\DMRStock\obj\Debug\DMRStock.Entree.ne.resources
+I:\DMRFact la bonne version\DMRStock\DMRStock\obj\Debug\DMRStock.facture.listeFacture.resources
+I:\DMRFact la bonne version\DMRStock\DMRStock\obj\Debug\DMRStock.facture.newFacture.resources
+I:\DMRFact la bonne version\DMRStock\DMRStock\obj\Debug\DMRStock.facture.reglementFacture.resources
+I:\DMRFact la bonne version\DMRStock\DMRStock\obj\Debug\DMRStock.n_menu.resources
+I:\DMRFact la bonne version\DMRStock\DMRStock\obj\Debug\DMRStock.createProduct.resources
+I:\DMRFact la bonne version\DMRStock\DMRStock\obj\Debug\DMRStock.mainproject.resources
+I:\DMRFact la bonne version\DMRStock\DMRStock\obj\Debug\DMRStock.productListe.resources
+I:\DMRFact la bonne version\DMRStock\DMRStock\obj\Debug\DMRStock.Properties.Resources.resources
+I:\DMRFact la bonne version\DMRStock\DMRStock\obj\Debug\DMRStock.sortiee.listeSortie.resources
+I:\DMRFact la bonne version\DMRStock\DMRStock\obj\Debug\DMRStock.sortiee.ns.resources
+I:\DMRFact la bonne version\DMRStock\DMRStock\obj\Debug\DMRStock.user.loginPage.resources
+I:\DMRFact la bonne version\DMRStock\DMRStock\obj\Debug\DMRStock.user.newUser.resources
+I:\DMRFact la bonne version\DMRStock\DMRStock\obj\Debug\DMRStock.csproj.GenerateResource.cache
+I:\DMRFact la bonne version\DMRStock\DMRStock\obj\Debug\DMRStock.csproj.CoreCompileInputs.cache
+I:\DMRFact la bonne version\DMRStock\DMRStock\obj\Debug\DMRStock.csproj.CopyComplete
+I:\DMRFact la bonne version\DMRStock\DMRStock\obj\Debug\DMRStock.exe
+I:\DMRFact la bonne version\DMRStock\DMRStock\obj\Debug\DMRStock.pdb
+C:\Users\DELL\Desktop\Nouveau dossier\DMRPROG\APP DMRPROG 2024\DMRSTOCK V 2.0\DMRStock\DMRStock\bin\Debug\DMRStock.exe.config
+C:\Users\DELL\Desktop\Nouveau dossier\DMRPROG\APP DMRPROG 2024\DMRSTOCK V 2.0\DMRStock\DMRStock\bin\Debug\DMRStock.exe
+C:\Users\DELL\Desktop\Nouveau dossier\DMRPROG\APP DMRPROG 2024\DMRSTOCK V 2.0\DMRStock\DMRStock\bin\Debug\DMRStock.pdb
+C:\Users\DELL\Desktop\Nouveau dossier\DMRPROG\APP DMRPROG 2024\DMRSTOCK V 2.0\DMRStock\DMRStock\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+C:\Users\DELL\Desktop\Nouveau dossier\DMRPROG\APP DMRPROG 2024\DMRSTOCK V 2.0\DMRStock\DMRStock\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+C:\Users\DELL\Desktop\Nouveau dossier\DMRPROG\APP DMRPROG 2024\DMRSTOCK V 2.0\DMRStock\DMRStock\obj\Debug\DMRStock.csproj.AssemblyReference.cache
+C:\Users\DELL\Desktop\Nouveau dossier\DMRPROG\APP DMRPROG 2024\DMRSTOCK V 2.0\DMRStock\DMRStock\obj\Debug\DMRStock.category.newCategory.resources
+C:\Users\DELL\Desktop\Nouveau dossier\DMRPROG\APP DMRPROG 2024\DMRSTOCK V 2.0\DMRStock\DMRStock\obj\Debug\DMRStock.newClient.resources
+C:\Users\DELL\Desktop\Nouveau dossier\DMRPROG\APP DMRPROG 2024\DMRSTOCK V 2.0\DMRStock\DMRStock\obj\Debug\DMRStock.listeClient.resources
+C:\Users\DELL\Desktop\Nouveau dossier\DMRPROG\APP DMRPROG 2024\DMRSTOCK V 2.0\DMRStock\DMRStock\obj\Debug\DMRStock.Entree.listeEntree.resources
+C:\Users\DELL\Desktop\Nouveau dossier\DMRPROG\APP DMRPROG 2024\DMRSTOCK V 2.0\DMRStock\DMRStock\obj\Debug\DMRStock.Entree.ne.resources
+C:\Users\DELL\Desktop\Nouveau dossier\DMRPROG\APP DMRPROG 2024\DMRSTOCK V 2.0\DMRStock\DMRStock\obj\Debug\DMRStock.facture.listeFacture.resources
+C:\Users\DELL\Desktop\Nouveau dossier\DMRPROG\APP DMRPROG 2024\DMRSTOCK V 2.0\DMRStock\DMRStock\obj\Debug\DMRStock.facture.newFacture.resources
+C:\Users\DELL\Desktop\Nouveau dossier\DMRPROG\APP DMRPROG 2024\DMRSTOCK V 2.0\DMRStock\DMRStock\obj\Debug\DMRStock.facture.reglementFacture.resources
+C:\Users\DELL\Desktop\Nouveau dossier\DMRPROG\APP DMRPROG 2024\DMRSTOCK V 2.0\DMRStock\DMRStock\obj\Debug\DMRStock.n_menu.resources
+C:\Users\DELL\Desktop\Nouveau dossier\DMRPROG\APP DMRPROG 2024\DMRSTOCK V 2.0\DMRStock\DMRStock\obj\Debug\DMRStock.createProduct.resources
+C:\Users\DELL\Desktop\Nouveau dossier\DMRPROG\APP DMRPROG 2024\DMRSTOCK V 2.0\DMRStock\DMRStock\obj\Debug\DMRStock.mainproject.resources
+C:\Users\DELL\Desktop\Nouveau dossier\DMRPROG\APP DMRPROG 2024\DMRSTOCK V 2.0\DMRStock\DMRStock\obj\Debug\DMRStock.productListe.resources
+C:\Users\DELL\Desktop\Nouveau dossier\DMRPROG\APP DMRPROG 2024\DMRSTOCK V 2.0\DMRStock\DMRStock\obj\Debug\DMRStock.Properties.Resources.resources
+C:\Users\DELL\Desktop\Nouveau dossier\DMRPROG\APP DMRPROG 2024\DMRSTOCK V 2.0\DMRStock\DMRStock\obj\Debug\DMRStock.sortiee.listeSortie.resources
+C:\Users\DELL\Desktop\Nouveau dossier\DMRPROG\APP DMRPROG 2024\DMRSTOCK V 2.0\DMRStock\DMRStock\obj\Debug\DMRStock.sortiee.ns.resources
+C:\Users\DELL\Desktop\Nouveau dossier\DMRPROG\APP DMRPROG 2024\DMRSTOCK V 2.0\DMRStock\DMRStock\obj\Debug\DMRStock.user.loginPage.resources
+C:\Users\DELL\Desktop\Nouveau dossier\DMRPROG\APP DMRPROG 2024\DMRSTOCK V 2.0\DMRStock\DMRStock\obj\Debug\DMRStock.user.newUser.resources
+C:\Users\DELL\Desktop\Nouveau dossier\DMRPROG\APP DMRPROG 2024\DMRSTOCK V 2.0\DMRStock\DMRStock\obj\Debug\DMRStock.csproj.GenerateResource.cache
+C:\Users\DELL\Desktop\Nouveau dossier\DMRPROG\APP DMRPROG 2024\DMRSTOCK V 2.0\DMRStock\DMRStock\obj\Debug\DMRStock.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\Nouveau dossier\DMRPROG\APP DMRPROG 2024\DMRSTOCK V 2.0\DMRStock\DMRStock\obj\Debug\DMRStock.csproj.CopyComplete
+C:\Users\DELL\Desktop\Nouveau dossier\DMRPROG\APP DMRPROG 2024\DMRSTOCK V 2.0\DMRStock\DMRStock\obj\Debug\DMRStock.exe
+C:\Users\DELL\Desktop\Nouveau dossier\DMRPROG\APP DMRPROG 2024\DMRSTOCK V 2.0\DMRStock\DMRStock\obj\Debug\DMRStock.pdb

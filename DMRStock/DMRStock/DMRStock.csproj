@@ -1,0 +1,238 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{D4DAE74F-5532-4BA2-BA14-4A632FFCF1EC}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>DMRStock</RootNamespace>
+    <AssemblyName>DMRStock</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Microsoft.IO.RecyclableMemoryStream, Version=1.4.1.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.IO.RecyclableMemoryStream.1.4.1\lib\net46\Microsoft.IO.RecyclableMemoryStream.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Office.Interop.Excel, Version=15.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+      <HintPath>..\..\..\..\..\..\Windows\assembly\GAC_MSIL\Microsoft.Office.Interop.Excel\15.0.0.0__71e9bce111e9429c\Microsoft.Office.Interop.Excel.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.VisualBasic" />
+    <Reference Include="PresentationCore" />
+    <Reference Include="System" />
+    <Reference Include="System.Configuration" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Security" />
+    <Reference Include="System.Threading.Tasks" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="category\newCategory.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="category\newCategory.Designer.cs">
+      <DependentUpon>newCategory.cs</DependentUpon>
+    </Compile>
+    <Compile Include="client\newClient.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="client\newClient.Designer.cs">
+      <DependentUpon>newClient.cs</DependentUpon>
+    </Compile>
+    <Compile Include="client\listeClient.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="client\listeClient.Designer.cs">
+      <DependentUpon>listeClient.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Entree\listeEntree.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Entree\listeEntree.Designer.cs">
+      <DependentUpon>listeEntree.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Entree\newEntree.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Entree\newEntree.Designer.cs">
+      <DependentUpon>newEntree.cs</DependentUpon>
+    </Compile>
+    <Compile Include="facture\listeFacture.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="facture\listeFacture.Designer.cs">
+      <DependentUpon>listeFacture.cs</DependentUpon>
+    </Compile>
+    <Compile Include="facture\newFacture.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="facture\newFacture.Designer.cs">
+      <DependentUpon>newFacture.cs</DependentUpon>
+    </Compile>
+    <Compile Include="facture\reglementFacture.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="facture\reglementFacture.Designer.cs">
+      <DependentUpon>reglementFacture.cs</DependentUpon>
+    </Compile>
+    <Compile Include="n menu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="n menu.Designer.cs">
+      <DependentUpon>n menu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="produit\createProduct.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="produit\createProduct.Designer.cs">
+      <DependentUpon>createProduct.cs</DependentUpon>
+    </Compile>
+    <Compile Include="mainproject.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="mainproject.Designer.cs">
+      <DependentUpon>mainproject.cs</DependentUpon>
+    </Compile>
+    <Compile Include="produit\productListe.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="produit\productListe.Designer.cs">
+      <DependentUpon>productListe.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="sortiee\listeSortie.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="sortiee\listeSortie.Designer.cs">
+      <DependentUpon>listeSortie.cs</DependentUpon>
+    </Compile>
+    <Compile Include="sortiee\newSortiee.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="sortiee\newSortiee.Designer.cs">
+      <DependentUpon>newSortiee.cs</DependentUpon>
+    </Compile>
+    <Compile Include="user\loginPage.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="user\loginPage.Designer.cs">
+      <DependentUpon>loginPage.cs</DependentUpon>
+    </Compile>
+    <Compile Include="user\newUser.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="user\newUser.Designer.cs">
+      <DependentUpon>newUser.cs</DependentUpon>
+    </Compile>
+    <Compile Include="user\userListe.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="user\userListe.Designer.cs">
+      <DependentUpon>userListe.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="category\newCategory.resx">
+      <DependentUpon>newCategory.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="client\newClient.resx">
+      <DependentUpon>newClient.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="client\listeClient.resx">
+      <DependentUpon>listeClient.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Entree\listeEntree.resx">
+      <DependentUpon>listeEntree.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Entree\newEntree.resx">
+      <DependentUpon>newEntree.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="facture\listeFacture.resx">
+      <DependentUpon>listeFacture.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="facture\newFacture.resx">
+      <DependentUpon>newFacture.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="facture\reglementFacture.resx">
+      <DependentUpon>reglementFacture.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="n menu.resx">
+      <DependentUpon>n menu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="produit\createProduct.resx">
+      <DependentUpon>createProduct.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="mainproject.resx">
+      <DependentUpon>mainproject.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="produit\productListe.resx">
+      <DependentUpon>productListe.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="sortiee\listeSortie.resx">
+      <DependentUpon>listeSortie.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="sortiee\newSortiee.resx">
+      <DependentUpon>newSortiee.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="user\loginPage.resx">
+      <DependentUpon>loginPage.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="user\newUser.resx">
+      <DependentUpon>newUser.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="packages.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>
